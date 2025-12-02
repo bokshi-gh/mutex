@@ -1,6 +1,6 @@
+#include "mutex.h"
 #include <stdio.h>
 #include <pthread.h>
-#include "mutex.h"
 
 mutex m;
 int counter = 0;
