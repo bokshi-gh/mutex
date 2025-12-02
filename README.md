@@ -7,5 +7,5 @@ A [Mutex](https://en.wikipedia.org/wiki/Lock_(computer_science)) implementation 
 Check the following files:
 
 - `include/mutex.h` - Struct defination and function declarations.
-- `src/dynamic_array.c` - Function implementations
+- `src/mutex.c` - Function implementations
 - `src/main.c` - Example code demonstrating how to use the `mutex` struct and functions.
