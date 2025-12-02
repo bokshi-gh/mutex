@@ -1,3 +1,3 @@
 # Mutex
 
-A C implementation of [Mutex](https://en.wikipedia.org/wiki/Lock_(computer_science)).
+A [Mutex](https://en.wikipedia.org/wiki/Lock_(computer_science)) implementation in C.
