@@ -6,6 +6,6 @@ A [Mutex](https://en.wikipedia.org/wiki/Lock_(computer_science)) implementation 
 
 Check the following files:
 
-- `include/mutex.h` - Struct defination and function declarations.
+- `include/mutex.h` - Struct defination and function declarations
 - `src/mutex.c` - Function implementations
-- `src/main.c` - Example code demonstrating how to use the `mutex` struct and functions.
+- ['examples/mutex_demo.c'](examples/mutex_demo.c) - Example code demonstrating how to use the `mutex` struct and functions

@@ -29,4 +29,3 @@ int main() {
     printf("Final Counter: %d\n", counter);
     return 0;
 }
-
